@@ -26,3 +26,4 @@ scipy==1.5.2
 sklearn==0.0
 yfinance==0.1.67
 setuptools==0.7.3
+pip install setuptools==58
